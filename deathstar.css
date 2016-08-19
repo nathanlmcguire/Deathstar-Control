@@ -1,0 +1,37 @@
+body{
+    background-image:url(http://www.gunnars.com/wp-content/uploads/2014/08/Space.jpg)
+}
+
+#Alderaan{
+    color: aqua;
+    background-color: black
+    
+}
+
+#Tatooine{
+    color: yellow;
+    background-color: black
+}
+
+#Coruscant{
+    color:crimson;
+    background-color: black
+}
+
+#Naboo{
+    color: chartreuse;
+    background-color: black
+}
+
+#Dagobah{
+    color:darkseagreen;
+    background-color: black
+}
+
+.normal-text{
+    color:white;
+    background-color: black
+}
+
+button1{
+}
